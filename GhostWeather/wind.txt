@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<string>无持续风向</string>
+	<key>1</key>
+	<string>东北风3-4级</string>
+	<key>2</key>
+	<string>东风4-5级</string>
+	<key>3</key>
+	<string>东南风5-6级</string>
+	<key>4</key>
+	<string>南风6-7级</string>
+	<key>5</key>
+	<string>西南风7-8级</string>
+	<key>6</key>
+	<string>西风8-9级</string>
+	<key>7</key>
+	<string>西北风9-10级</string>
+	<key>8</key>
+	<string>北风10-11级</string>
+	<key>9</key>
+	<string>旋转风11-12级</string>
+</dict>
+</plist>
